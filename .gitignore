@@ -1,0 +1,4 @@
+dataset/
+*.pickle
+*.ini
+__pycache__/
